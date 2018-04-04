@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [1.1.0] - 2018-04-04
+## [v1.1.0] - 2018-04-04
 ### Added
 @icon-android
 @icon-apple
@@ -21,6 +21,8 @@ All notable changes to this project will be documented in this file.
 @icon-safari
 @icon-windows
 
-## [1.0.0] - 2018-01-02
+## [v1.0.0] - 2018-01-02
 ### Added
 - Initial icon set
+
+[v1.0.0]: https://github.com/Kentico/kentico-icons/compare/7b921b7023823f97ea73a1b063c85985c7f3c9b4...v1.0.0
