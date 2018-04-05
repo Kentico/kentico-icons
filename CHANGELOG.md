@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [v1.1.0] - 2018-04-04
+## [v1.1.0] - 2018-04-05
 ### Added
 - @icon-android
 - @icon-apple
