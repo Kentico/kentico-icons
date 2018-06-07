@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [v1.2.0] - 2018-06-07
+### Added
+- @icon-personalisation
+- @icon-personalisation-variants
+
 ## [v1.1.0] - 2018-04-05
 ### Added
 - @icon-android
@@ -25,5 +30,6 @@ All notable changes to this project will be documented in this file.
 ### Added
 - Initial icon set
 
+[v1.2.0]: https://github.com/Kentico/kentico-icons/compare/v1.1.0...v1.2.0
 [v1.1.0]: https://github.com/Kentico/kentico-icons/compare/v1.0.0...v1.1.0
 [v1.0.0]: https://github.com/Kentico/kentico-icons/compare/7b921b7023823f97ea73a1b063c85985c7f3c9b4...v1.0.0
