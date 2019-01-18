@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1024px" height="1024px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
-<g>
-	<path d="M960,192v512H553.55L320,890.84V704H64V192H960 M1024,128H0v640h256v256l320-256h448V128L1024,128z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>bubble-o</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bubble-o" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 64.000000)" fill="#000000" fill-rule="nonzero" id="Shape">
+            <path d="M960,64 L960,576 L553.55,576 L320,762.84 L320,576 L64,576 L64,64 L960,64 Z M1024,0 L0,0 L0,640 L256,640 L256,896 L576,640 L1024,640 L1024,0 Z"></path>
+        </g>
+    </g>
 </svg>
