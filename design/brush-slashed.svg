@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>brush-slashed</title>
+    <desc>Created with Sketch.</desc>
+    <g id="brush-slashed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="brush" fill="#000000">
+            <g id="Group">
+                <path d="M548.378741,292.378741 L292.378741,548.378741 L256,512 L256,448 L320,384 L-1.70530257e-13,128.16 L-1.70530257e-13,64 L65,-1.70530257e-13 L128,-1.70530257e-13 L384,320 L448,256 L512,256 L548.378741,292.378741 Z" id="Combined-Shape"></path>
+                <path d="M470.502872,743.803447 L743.803447,470.502872 L1024,704 L936,792 L784,640 L885.33,842.67 L832,896 L778.67,949.33 L704,1024 L470.502872,743.803447 Z" id="Combined-Shape"></path>
+                <rect id="Rectangle" transform="translate(511.998183, 511.998183) rotate(-45.000000) translate(-511.998183, -511.998183) " x="-76.3111745" y="455.428726" width="1176.61872" height="113.138915"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
