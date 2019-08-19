@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>bubble-check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bubble-check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0,64 L1024,64 L1024,704 L576,704 L256,960 L256,704 L0,704 L0,64 Z M458.888889,563.754639 L751,271.236121 L684.611111,204.754639 L458.888889,430.791676 L339.388889,311.12501 L273,377.606491 L458.888889,563.754639 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
