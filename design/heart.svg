@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M512,0 C794.769792,0 1024,229.230208 1024,512 C1024,794.769792 794.769792,1024 512,1024 C229.230208,1024 0,794.769792 0,512 C0,229.230208 229.230208,0 512,0 Z M650.408869,261.446809 C595.419386,261.446809 545.728142,284.181052 510.186266,320.782732 C474.640652,284.181052 424.949409,261.446809 369.959926,261.446809 C261.898757,261.446809 174.297872,349.23994 174.297872,457.538257 C174.297872,529.737135 286.26067,656.827219 510.186266,838.808511 C734.10937,656.827219 846.070922,529.737135 846.070922,457.538257 C846.070922,349.23994 758.470037,261.446809 650.408869,261.446809 Z" id="path-1"></path>
+    </defs>
+    <g id="heart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>
