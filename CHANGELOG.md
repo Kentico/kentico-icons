@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v2.0.0] - 2020-01-24
+### Renamed
+- @icon-parent-child-scheme &#8594; @icon-parent-children-scheme-three
+- @icon-parent-child-scheme-2 &#8594; @icon-parent-child-scheme-inverted
+- @icon-parent-child-scheme2 &#8594; @icon-parent-child-scheme
+- @icon-parent-children-scheme &#8594; @icon-parent-children-scheme-two
+
 ## [v1.13.0] - 2019-11-19
 ### Added
 - @icon-bell
@@ -96,6 +103,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial icon set
 
+[v2.0.0]: https://github.com/Kentico/kentico-icons/compare/v1.13.0...v2.0.0
 [v1.13.0]: https://github.com/Kentico/kentico-icons/compare/v1.12.0...v1.13.0
 [v1.12.0]: https://github.com/Kentico/kentico-icons/compare/v1.11.0...v1.12.0
 [v1.11.0]: https://github.com/Kentico/kentico-icons/compare/v1.10.0...v1.11.0
