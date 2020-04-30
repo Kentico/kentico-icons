@@ -1,6 +1,6 @@
 # Kentico Icons
 
-Kentico icons are the official icon set from Kentico that we use in our products — [Kentico CMS/EMS](https://www.kentico.com/) and [Kentico Cloud](https://kenticocloud.com/).
+Kentico icons are the official icon set from Kentico that we use in our products — [Kentico CMS/EMS](https://www.kentico.com/) and [Kentico Kontent](https://kontent.ai/).
 
 ## Getting Started
 
