@@ -24,4 +24,3 @@ In the **production** folder there is **selection.json** file. Use **selection.j
 We have made these icons available for you to incorporate them into your products or web apps under the [MIT License](https://opensource.org/licenses/MIT). Feel free to remix and re-share these icons and documentation in your products.
 We'd love attribution in your app's *about* screen, but it's not required. The only thing we ask is that you do not re-sell these icons.
 
-![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/kentico-icons?pixel)
