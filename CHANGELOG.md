@@ -119,6 +119,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial icon set
 
+[v2.4.0]: https://github.com/Kentico/kentico-icons/compare/v2.3.0...v2.4.0
 [v2.3.0]: https://github.com/Kentico/kentico-icons/compare/v2.2.0...v2.3.0
 [v2.2.0]: https://github.com/Kentico/kentico-icons/compare/v2.1.0...v2.2.0
 [v2.1.0]: https://github.com/Kentico/kentico-icons/compare/v2.0.0...v2.1.0
