@@ -1,6 +1,6 @@
 # Kentico Icons
 
-Kentico icons are the official icon set from Kentico that we use in our products — [Kentico CMS/EMS](https://www.kentico.com/) and [Kentico Kontent](https://kontent.ai/).
+Kentico icons are the official icon set from [Kentico](https://kentico.com) that we use in our products.
 
 ## Getting Started
 
@@ -8,9 +8,8 @@ Kentico icons are the official icon set from Kentico that we use in our products
 **production/** directory holds all sources you need. **production/fonts/** contains font files and **production/icon-variables.less** is mapping between icon font symbol and icon name. We recommend using icon-variables as font symbols can be subject to change. Do not forget to set up your [css font-face](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face).
 
 You can either:
-* generate your own icon set (see instructions in the section below),
-* use [icons-processor](https://github.com/Kentico/icons-processor) to generate the list of LESS icon variables for your app,
-* or create your own generator to create your LESS/SASS/CSS file out of selection.json
+* generate your own icon set (see instructions in the section below)
+* create your own generator to create your LESS/SASS/CSS file out of selection.json
 
 ### Adjusting source icons
 Source icons are located in **design** folder as SVG files. Feel free to adjust or expand the set according to your needs.

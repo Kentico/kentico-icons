@@ -15,7 +15,6 @@ Sorry to hear that. Just log a new [GitHub issue](../../issues) and someone will
 <img align="right" width="100" height="100" src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.svg">
 
 To get help with coding and structuring your projects, use [StackOverflow](https://stackoverflow.com/) to ask questions with one of the following tags:
-- [`kentico-cloud`](https://stackoverflow.com/questions/tagged/kentico-cloud)
 - [`kentico`](https://stackoverflow.com/questions/tagged/kentico)
 
 Our team members and the community monitor these channels on a regular basis.
@@ -23,7 +22,7 @@ Our team members and the community monitor these channels on a regular basis.
 ### I want to report a security bug
 <img align="right" width="100" height="100" src="https://i.imgur.com/z82nnJB.png">
 
-Security issues and bugs should be reported privately, via email, to the Kentico Developer Community Team developerscommunity@kentico.com. You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
+Security issues and bugs should be reported privately, via email, to xperience-devops@kentico.com. You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 
 
 ### I have an idea for a new feature (or feedback on existing functionality)
@@ -68,5 +67,3 @@ Your pull request will now go through extensive checks by the subject matter exp
 <img align="right" width="100" height="100" src="https://i.imgur.com/cObdKQy.png">
 
 The Kentico team is committed to fostering a welcoming community, therefore this project has adopted the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). If you have any additional questions or comments, you can contact us directly at developerscommunity@kentico.com.
-
-![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/Home/master/CONTRIBUTING.md?pixel)
